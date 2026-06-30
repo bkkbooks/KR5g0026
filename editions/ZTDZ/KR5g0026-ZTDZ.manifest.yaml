@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0026/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0026/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上正一解五音咒詛祕籙
+  date: '2015-08-29 02:25:39.458795'
+  source:
+    repository: kanripo
+    path: KR5g0026
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0026_000-ZTDZ.yaml, hash: 'sha256:b67b003dbfab710ed865090894c0c28117be94980b4b293658d84e829bd7b70f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0026_000-ZTDZ.markers.yaml, hash: 'sha256:d08b8db6acb4e2ca2ad29c0c9d9a418dadda718904bc497f8094007af0d8bb66'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0026_SJB_000-280532a
+    span:
+    - body
+    - 0
+    - 1330
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:3e36a19f94172418be02a5e9a9f878dd99a5340d088fe31bebc9ba0e6b5db207
